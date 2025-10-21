@@ -1,0 +1,5 @@
+steps:
+  - label: ":typescript: Generate the pipeline"
+    command: |
+      npm -C .buildkite install
+      npm -C .buildkite --silent run pipeline | buildkite-agent pipeline upload
