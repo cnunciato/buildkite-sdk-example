@@ -1,6 +1,6 @@
 # Buildkite SDK example
 
-[![Build status](https://badge.buildkite.com/81fa0dcbdf7b778a8755e42bd13af68c499272790bece182a9.svg)](https://buildkite.com/cnunciato/buildkite-sdk-example)
+[![Build status](https://badge.buildkite.com/36b030e962785c8464830e73459fba1f41642f854caf826d16.svg)](https://buildkite.com/cnunciato/buildkite-sdk-example)
 [![Add to Buildkite](https://img.shields.io/badge/Add%20to%20Buildkite-14CC80)](https://buildkite.com/new)
 
 A super-simple example of using the [Buildkite SDK](https://buildkite.com/docs/pipelines/configure/dynamic-pipelines/sdk) to generate a pipeline dynamically with TypeScript.
